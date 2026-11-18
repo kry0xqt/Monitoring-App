@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "549108160095",
+    "firebase_url": "https://labguard-20e71-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "labguard-20e71",
+    "storage_bucket": "labguard-20e71.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549108160095:android:8c7af88c82c579a1962dea",
+        "android_client_info": {
+          "package_name": "com.example.lab_guard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549108160095-jub8kdhu4cghkokb52eg07a0611vt24e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA89EZCl8izPFo2WlBK_OId6bOTyddvAzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549108160095-jub8kdhu4cghkokb52eg07a0611vt24e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
